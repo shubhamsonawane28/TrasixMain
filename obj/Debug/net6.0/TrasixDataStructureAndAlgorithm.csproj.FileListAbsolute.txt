@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\obj\Debug\net6.0\TrasixDataStructureAndAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\obj\Debug\net6.0\TrasixDataStructureAndAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\obj\Debug\net6.0\TrasixDataStructureAndAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\obj\Debug\net6.0\TrasixDataStructureAndAlgorithm.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\obj\Debug\net6.0\TrasixDataStructureAndAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\bin\Debug\net6.0\TrasixDataStructureAndAlgorithm.exe
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\bin\Debug\net6.0\TrasixDataStructureAndAlgorithm.deps.json
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\bin\Debug\net6.0\TrasixDataStructureAndAlgorithm.runtimeconfig.json
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\bin\Debug\net6.0\TrasixDataStructureAndAlgorithm.dll
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\bin\Debug\net6.0\TrasixDataStructureAndAlgorithm.pdb
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\obj\Debug\net6.0\TrasixDataStructureAndAlgorithm.dll
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\obj\Debug\net6.0\refint\TrasixDataStructureAndAlgorithm.dll
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\obj\Debug\net6.0\TrasixDataStructureAndAlgorithm.pdb
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\obj\Debug\net6.0\TrasixDataStructureAndAlgorithm.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TrasixDataStructureAndAlgorithm\obj\Debug\net6.0\ref\TrasixDataStructureAndAlgorithm.dll

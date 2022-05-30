@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrasixDataStructureAndAlgorithm", "TrasixDataStructureAndAlgorithm.csproj", "{F7A19C84-DB41-4BB6-876A-87F200ABA916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A19C84-DB41-4BB6-876A-87F200ABA916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A19C84-DB41-4BB6-876A-87F200ABA916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A19C84-DB41-4BB6-876A-87F200ABA916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A19C84-DB41-4BB6-876A-87F200ABA916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B16F11B8-419B-4D2B-81FF-0CC07F68BF98}
+	EndGlobalSection
+EndGlobal
